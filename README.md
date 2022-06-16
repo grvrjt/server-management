@@ -1,2 +1,2 @@
-# server-management
+# Server-Management
 There are some server  related commands.
